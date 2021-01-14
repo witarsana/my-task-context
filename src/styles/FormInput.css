@@ -1,0 +1,19 @@
+.form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+}
+
+.input {
+  flex: 1;
+  border: none;
+  border-bottom: thin solid #ccc;
+  margin: 0 5px;
+  font-size: medium;
+}
+
+.input:focus {
+  outline: none;
+}

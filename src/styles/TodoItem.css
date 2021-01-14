@@ -1,0 +1,17 @@
+.todo-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 5px;
+  height: 60px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(71, 69, 69);
+  font-weight: bold;
+  box-shadow: 1px 1px 10px #cccccc;
+  margin: 10px 0;
+}
+
+p {
+  margin-left: 20px;
+}

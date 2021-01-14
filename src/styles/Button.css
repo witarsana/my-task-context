@@ -1,0 +1,38 @@
+.btn {
+  min-width: 80px;
+  height: 40px;
+  border: none;
+  padding: 1px;
+  margin: 0 1px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: medium;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn-primary {
+  background-color: rgb(34, 101, 226);
+  color: white;
+}
+
+.btn-success {
+  background-color: rgb(82, 231, 102);
+  color: white;
+}
+
+.btn-danger {
+  background-color: rgb(245, 65, 65);
+  color: white;
+}
+
+.btn-warning {
+  background-color: rgb(231, 185, 35);
+  color: white;
+}
